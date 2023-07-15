@@ -4,7 +4,7 @@
 		<img src="https://img.shields.io/static/v1?label=&message=CSharp&color=239120&style=for-the-badge&logo=csharp&logoColor=white&logoWidth=&labelColor=&link=">
 		<img src="https://img.shields.io/static/v1?label=&message=Firebase&color=FFCA28&style=for-the-badge&logo=firebase&logoColor=black&logoWidth=&labelColor=&link=">
 		<img src="https://img.shields.io/static/v1?label=&message=Tesseract&color=4285F4&style=for-the-badge&logo=google&logoColor=white&logoWidth=&labelColor=&link=">
-		<img src="https://img.shields.io/static/v1?label=&message=Webpack&color=EF4242&style=for-the-badge&logo=metro&logoColor=white&logoWidth=&labelColor=&link=">
+		<img src="https://img.shields.io/static/v1?label=&message=Metro UI&color=EF4242&style=for-the-badge&logo=metro&logoColor=white&logoWidth=&labelColor=&link=">
 	</h1>
 </div>
 
