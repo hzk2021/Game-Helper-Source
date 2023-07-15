@@ -6,7 +6,6 @@
 		<img src="https://img.shields.io/static/v1?label=&message=Tesseract&color=4285F4&style=for-the-badge&logo=google&logoColor=white&logoWidth=&labelColor=&link=">
 		<img src="https://img.shields.io/static/v1?label=&message=Webpack&color=EF4242&style=for-the-badge&logo=metro&logoColor=white&logoWidth=&labelColor=&link=">
 	</h1>
-	<h3><b><a href="https://hzk2021.github.io/portfolio">View Live Demo</a></b></h3>
 </div>
 
 <!-- ![Gif of Project](./readme-assets/example.gif) -->
